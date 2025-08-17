@@ -1,4 +1,4 @@
----
+
 
 # 🏥 Health Insurance Cost Predictor
 
@@ -8,13 +8,11 @@ The app is built using **Logistic Regression** and deployed with **Streamlit** f
 
 🔗 **Live Demo**: [Health Insurance Cost Predictor](https://ml-project-premium-prediction-tf7.streamlit.app)
 
----
 
 ## 📸 Screenshot
 
 ![App Screenshot](./Screenshot (2).png)
 
----
 
 ## 🚀 Features
 
