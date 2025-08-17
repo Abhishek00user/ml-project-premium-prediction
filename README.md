@@ -11,7 +11,7 @@ The app is built using **Logistic Regression** and deployed with **Streamlit** f
 
 ## 📸 Screenshot
 
-![App Screenshot](Screenshot (2).png)
+![App Screenshot](appScreenshot.png)
 
 
 ## 🚀 Features
